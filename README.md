@@ -31,7 +31,8 @@ This project predicts diseases from medical images like X-rays using deep learni
 
 ## 📷 Sample Output
 
-_You can add screenshots of predictions and graphs later here._
+<img width="1363" height="628" alt="Screenshot 2025-07-30 145043" src="https://github.com/user-attachments/assets/1e90dc9b-7173-4050-829c-84b413e2a1fa" />
+
 
 ## 🙋‍♀️ Author
 
